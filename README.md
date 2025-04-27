@@ -2,7 +2,7 @@
 
 ---
 
-**Captain Jack Sparrow** be no ordinary assistant — he’s a Streamlit-powered AI navigator built with **Claude-3 Opus** and **LangChain**.  
+**Captain Jack Sparrow** be no ordinary assistant — he’s a Streamlit-powered AI navigator built with **Claude-3.5 Sonnet** and **LangChain**.  
 Talk in plain English, and the good Captain wrangles your database, fishes the right SQL, and serves you treasures in clean tables or lists.
 
 No clunky dashboards.  
