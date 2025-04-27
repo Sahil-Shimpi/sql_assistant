@@ -2,7 +2,7 @@
 # Captain Jack Sparrow: Database Treasure Hunter
 # ------------------------------------------------------------
 # A Streamlit application to interact with a MySQL database 
-# through natural language queries, powered by Claude 3 (Opus).
+# through natural language queries, powered by Claude 3.5 (Sonnet).
 # Themed after the legendary pirate, Captain Jack Sparrow!
 # ============================================================
 
